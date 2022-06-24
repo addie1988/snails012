@@ -2018,8 +2018,14 @@ p {
   background-size: cover;
 }
 
-.footerTelephone p {
-  padding-left: 30px;
+.footerTelephone a {
+  color: #8b8e94;
+  padding: 0 0 0 30px;
+}
+
+.footerTelephone a:hover {
+  border: none;
+  background: none;
 }
 
 .footerEmail {
@@ -2040,8 +2046,14 @@ p {
   background-size: cover;
 }
 
-.footerEmail p {
-  padding-left: 30px;
+.footerEmail a {
+  color: #8b8e94;
+  padding: 0 0 0 30px;
+}
+
+.footerEmail a:hover {
+  border: none;
+  background: none;
 }
 
 .footerAddress {
@@ -2061,8 +2073,14 @@ p {
   background-size: cover;
 }
 
-.footerAddress p {
-  padding-left: 30px;
+.footerAddress a {
+  color: #8b8e94;
+  padding: 0 0 0 30px;
+}
+
+.footerAddress a:hover {
+  border: none;
+  background: none;
 }
 
 .footer1 .footerLogo a {
