@@ -1780,7 +1780,7 @@ span {
 /* map */
 .map {
   position: relative;
-  padding: 10px 0;
+  padding: 0;
   background-color: rgba(235, 54, 86, 0.03137254901960784);
 }
 
